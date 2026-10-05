@@ -1,0 +1,13 @@
+{
+  "name": "nextme-parallel-lives",
+  "owner": {
+    "name": "NextMe"
+  },
+  "plugins": [
+    {
+      "name": "nextme-parallel-lives-cn",
+      "source": "./plugins/nextme-parallel-lives-cn",
+      "description": "NextMe三条平行人生探索教练：用于第二曲线课后探索，深化未来画面、整理母题并形成愿意先了解的方向；完整报告后停止，不进行商业模式分析。"
+    }
+  ]
+}

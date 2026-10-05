@@ -1,0 +1,29 @@
+{
+  "name": "nextme-parallel-lives-cn",
+  "version": "4.1.0",
+  "description": "Chinese Life Design coaching for three parallel lives and a provisional exploration direction. Stops after the integrated report.",
+  "author": {
+    "name": "NextMe"
+  },
+  "license": "MIT",
+  "keywords": [
+    "career",
+    "life-design",
+    "coaching",
+    "parallel-lives",
+    "chinese"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "NextMe三条平行人生探索教练",
+    "shortDescription": "三条平行人生课后探索",
+    "longDescription": "NextMe三条平行人生探索教练：用于第二曲线课后探索，深化未来画面、整理母题并形成愿意先了解的方向；完整报告后停止，不进行商业模式分析。",
+    "developerName": "NextMe",
+    "category": "Productivity",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "defaultPrompt": [
+      "请用 NextMe三条平行人生探索教练陪我探索第二曲线，完整报告输出后结束。"
+    ]
+  }
+}

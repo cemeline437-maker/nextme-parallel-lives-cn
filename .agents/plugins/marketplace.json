@@ -1,0 +1,20 @@
+{
+  "name": "nextme-parallel-lives",
+  "interface": {
+    "displayName": "NextMe平行人生探索"
+  },
+  "plugins": [
+    {
+      "name": "nextme-parallel-lives-cn",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nextme-parallel-lives-cn"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

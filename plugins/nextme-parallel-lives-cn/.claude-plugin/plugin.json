@@ -1,0 +1,17 @@
+{
+  "name": "nextme-parallel-lives-cn",
+  "version": "4.1.0",
+  "description": "Chinese Life Design coaching for three parallel lives and a provisional exploration direction. Stops after the integrated report.",
+  "author": {
+    "name": "NextMe"
+  },
+  "license": "MIT",
+  "keywords": [
+    "career",
+    "life-design",
+    "coaching",
+    "parallel-lives",
+    "chinese"
+  ],
+  "skills": "./skills/"
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "NextMe三条平行人生探索教练"
+  short_description: "课后深化三条平行人生，整理核心母题并形成愿意先了解的方向，完整报告后结束"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  default_prompt: "请用 $nextme-parallel-lives-cn 陪我探索三条平行人生，从我已有的材料继续；没有材料就从头开始。"
