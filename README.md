@@ -75,7 +75,9 @@ npx skills add https://github.com/cemeline437-maker/nextme-parallel-lives-cn --s
 
 ## WorkBuddy / SkillHub
 
-[打开 SkillHub 技能页面](https://skillhub.cn/skills/user_ef208136/nextme-parallel-lives-cn)。在 WorkBuddy 技能库选择 SkillHub 来源，搜索“NextMe三条平行人生探索教练”或 `nextme-parallel-lives-cn`，核对标识 `@user_ef208136/nextme-parallel-lives-cn` 后点击安装。
+[打开 SkillHub 技能页面](https://skillhub.cn/skills/user_ef208136/nextme-parallel-lives-cn)，点击“安装到本地 Agent”，选择 WorkBuddy，按页面提示打开应用并完成安装。安装后可在 WorkBuddy 的“我安装的”里找到技能。
+
+也可以在 WorkBuddy 技能库选择 SkillHub 来源，搜索“NextMe三条平行人生探索教练”或 `nextme-parallel-lives-cn`，核对标识 `@user_ef208136/nextme-parallel-lives-cn` 后点击安装。4.1.0 已通过 SkillHub 审核，并已实测通过网页入口安装到 WorkBuddy。
 
 SkillHub 上架需要经过平台审核；若暂时还搜不到，使用 [WorkBuddy 上传包](https://github.com/cemeline437-maker/nextme-parallel-lives-cn/raw/main/dist/nextme-parallel-lives-cn-skillhub.zip) 在支持上传技能的界面导入。本包不需要 API 密钥或连接器授权。
 
