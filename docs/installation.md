@@ -53,6 +53,8 @@ Skill 不会主动读取其他对话或个人文件。换到新对话时，原�
 
 通用 ZIP 与 SkillHub ZIP 都保留单个顶层目录 `nextme-parallel-lives-cn/`。通用包使用 Agent Skills 元数据；SkillHub 包额外包含平台需要的中文、英文简介、版本和作者字段，两份教练正文一致。
 
-SkillHub 当前上传规则只接受支持的文本文件扩展名，因此该包仅含 `SKILL.md`，图标单独上传。MIT 许可证保留在 GitHub 和通用包中，SkillHub 元数据也注明 MIT。
+SkillHub 当前上传规则只接受支持的文本文件扩展名，图标单独上传。MIT 许可证保留在 GitHub 和通用包中，SkillHub 元数据也注明 MIT。
+
+SkillHub 包的展示版本为 4.1.1：`SKILL.md` 提供简短的用途、适用场景和产出介绍，完整 v4.1 教练规则保留在 `references/coaching-flow.md`，调用时先完整读取。GitHub 通用包仍为 4.1.0，完整教练内容未变。
 
 安装、发现和启用的入口随产品和账号能力变化，以当前平台界面为准。Skills CLI 支持 `-g`、`-a`、`--copy` 和 `-y`，其行为可在[维护方文档](https://github.com/vercel-labs/skills)中核对。
